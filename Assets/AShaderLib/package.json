@@ -1,6 +1,6 @@
 {
     "name": "com.zcc.shader",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "displayName": "A Shader Lib",
     "description": "一个shader库 收集各种实用的shader",
     "unity": "2019.4",
